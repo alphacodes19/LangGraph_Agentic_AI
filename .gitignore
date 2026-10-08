@@ -1,0 +1,22 @@
+# Python environments
+.venv/
+venv/
+myenv/
+env/
+
+# Environment variables
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Archives
+*.zip
+
+# IDE
+.vscode/
